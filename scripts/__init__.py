@@ -1,0 +1,1 @@
+from pathnet.tokenizers.spacy_tokenizer import SpacyTokenizer

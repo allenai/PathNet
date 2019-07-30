@@ -1,0 +1,2 @@
+from pathnet.data.wikihop_data_reader.data_reader_wikihop import WikiHopMultiChoiceJsonReader
+from pathnet.data.obqa_data_reader.data_reader_obqa import OBQAMultiChoiceJsonReader

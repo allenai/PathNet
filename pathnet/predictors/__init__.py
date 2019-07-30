@@ -1,0 +1,1 @@
+from pathnet.predictors.wikihop_predictor import WikiHopPredictor
